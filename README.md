@@ -1,6 +1,6 @@
-# Worker safety with AWS DeepLens and Amazon Rekognition
+# Lone Worker safety using Amazon DeepLens and Rekognition
 
-Use AWS DeepLens and Amazon Rekognition to build an application that helps identify if a person at a construction site is wearing the right safety gear, in this case, a hard hat. 
+My eploratory project to use AWS DeepLens and Amazon Rekognition to build an application that helps identify if a person at a construction site is wearing the right safety gear, in this case, a hard hat. 
 
 ## Learning objectives
 In this lab you will learn the following:
@@ -15,7 +15,7 @@ In this lab you will learn the following:
 
 Follow the modules below or refer to the online course to learn how to build the application in 30 minutes.
 
-## Online course 
+## Reference of Online course 
 
 [![Online Course](worker-safety-sc.png)](https://www.aws.training/learningobject/wbc?id=32077)
 
@@ -203,4 +203,4 @@ Delete Lambda functions, S3 bucket and IAM roles.
 
 ## License Summary
 
-This sample code is made available under the MIT-0 license. See the LICENSE file.
+This project and code is made available under the MIT-0 license. See the LICENSE file.
